@@ -26,8 +26,8 @@ A simple CLI tool to generate custom TryHackMe profile badges in SVG and PNG for
 Clone the repository:
 
 ```bash
-git clone https://github.com/giriaryan694-a11y/THM-SVG-Badge.git
-cd THM-SVG-Badge
+git clone https://github.com/giriaryan694-a11y/thm_svg_badge.git
+cd thm_svg_badge
 ```
 
 Install the dependencies:
